@@ -45,7 +45,7 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/alessandrozuccotti/MasterThesis
-- icon: academia
+- icon: university
   icon_pack: fas
   name: link
   url: ""
