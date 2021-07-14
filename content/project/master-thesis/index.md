@@ -1,9 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Shooting method implementation
+summary: 
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Wormhole solutions
+- modified gravity
+date: "2021-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Code
+  url: https://github.com/alessandrozuccotti/MasterThesis
 url_code: ""
 url_pdf: ""
 url_slides: ""

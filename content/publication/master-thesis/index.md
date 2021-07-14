@@ -40,8 +40,17 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/alessandrozuccotti/MasterThesis
+- icon: academia
+  icon_pack: fas
+  name: link
+  url: ""
 url_pdf: 'tesizuccotti.pdf'
-url_code: 'https://github.com/alessandrozuccotti/MasterThesis'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
