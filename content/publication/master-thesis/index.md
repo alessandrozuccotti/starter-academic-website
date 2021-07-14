@@ -49,7 +49,7 @@ links:
   icon_pack: fas
   name: link
   url: ""
-url_pdf: 'tesizuccotti.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
