@@ -20,14 +20,14 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching
-- description: "[link to code](https://github.com/alessandrozuccotti/MasterThesis)"
+- description: "a software for modern technical computing ([wolfram.com](https://www.wolfram.com/mathematica/))"
   icon: atom
   icon_pack: fas
-  name: "[Wolfram Mathematica](https://www.wolfram.com/mathematica/)"
+  name: Wolfram Mathematica
 - description: Numerical solutions for non-linear differential equations
   icon: chart-line
   icon_pack: fas
-  name: Non-linear differential calculus
+  name: Calculus
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

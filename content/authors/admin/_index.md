@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Theoretical Physics.
+  - course: MSc in Theoretical Physics
     institution: "University of Pisa - Final grade: 110/110 cum Laude"
     year: "A.Y. 2019-2020"
   - course: BSc in Physics
