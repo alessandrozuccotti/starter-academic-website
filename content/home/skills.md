@@ -28,10 +28,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Calculus
-- description: Numerical solutions for non-linear differential equations
-  icon: chart-line
-  icon_pack: fas
-  name: Calculus
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
