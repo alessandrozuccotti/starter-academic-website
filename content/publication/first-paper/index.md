@@ -72,6 +72,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to to import publication metadata.
-{{% /callout %}}
