@@ -14,7 +14,7 @@ date: "2021-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +30,7 @@ abstract: "In this work we are going to study wormhole solutions in Einstein-Wey
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Wormoles, modified gravity]
+tags: ["Wormhole solutions", "modified gravity"]
 
 # Display this page in the Featured widget?
 featured: true
