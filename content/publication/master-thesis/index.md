@@ -59,12 +59,7 @@ using the shooting method for the boundary value problem between spatial
 infinity and the radius of the wormholes, we nd the geometric properties
 of the wormhole solutions, and in particular we characterize the behavior of
 these solutions in function of their position on the phase diagram. Then we
-use the results to explore both the interior r < r0 of the wormholes and the
-new copy of r > r0 that emerges in such solutions. We report a qualitative
-analysis of the behavior of the metric in this new r > r0 region, discovering
-that it has a finite proper volume for r -> inf for almost all solutions, due
-to a strongly non-at behavior of the metric. We conclude with a physical
-discussion about the case of a massive observer that falls into these solutions."
+use the results to explore ..."
 
 # Summary. An optional shortened abstract.
 summary: 
