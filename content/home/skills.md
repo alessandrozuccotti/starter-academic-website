@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Hard Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: [link to code]()
+- description: see "Experience" section
+  icon: chalkboard-teacher
+  icon_pack: fas
+  name: Teaching
+- description: "[link to code](https://github.com/alessandrozuccotti/MasterThesis)"
   icon: atom
   icon_pack: fas
-  name: [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
-- description: 100%
+  name: "[Wolfram Mathematica](https://www.wolfram.com/mathematica/)"
+- description: Numerical solutions for non-linear differential equations
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Non-linear differential calculus
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
