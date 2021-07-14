@@ -27,7 +27,8 @@ publication:
 publication_short: 
 
 abstract: "In this work we are going to study wormhole solutions in Einstein-Weyl
-gravity. Such solutions emerge when looking for a static spherically symmetric metric in the vacuum, in the more general context of classical quadratic
+gravity. Such solutions emerge when looking for a static spherically symmetric metric in the vacuum, 
+in the more general context of classical quadratic
 gravity. Classical quadratic gravity is the theory of gravitation that comes out
 when including quadratic terms in the curvature in the Einstein-Hilbert action
 of general relativity. The study of such theory is motivated by the presence
@@ -47,8 +48,9 @@ covers a large part of the solution space, i.e. wormhole solutions. We solve the
 geodesic equation in such solutions which shows the reason why we call them
 traversable wormholes. We report all the solution families found in previous
 works while adding a new subfamily of the generic wormhole solutions.
-When studying dierent classes of solutions we are assisted by a Lichnerowicz-
-type theorem which removes the contributions of the R2 term from the equations of motion under some assumptions, in particular when an horizon is
+When studying different classes of solutions we are assisted by a Lichnerowicz-
+type theorem which removes the contributions of the R2 term from the equations of 
+motion under some assumptions, in particular when an horizon is
 present. When such contribution is absent, the quadratic theory reduces to
 Einstein-Weyl gravity.
 By numerically solving the equations of motion in the Einstein-Weyl theory,
@@ -60,7 +62,7 @@ these solutions in function of their position on the phase diagram. Then we
 use the results to explore both the interior r < r0 of the wormholes and the
 new copy of r > r0 that emerges in such solutions. We report a qualitative
 analysis of the behavior of the metric in this new r > r0 region, discovering
-that it has a finite proper volume for r → ∞ for almost all solutions, due
+that it has a finite proper volume for r -> inf for almost all solutions, due
 to a strongly non-at behavior of the metric. We conclude with a physical
 discussion about the case of a massive observer that falls into these solutions."
 
