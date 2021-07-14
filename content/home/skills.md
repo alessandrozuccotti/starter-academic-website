@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+- description: [link to code]()
+  icon: atom
+  icon_pack: fas
+  name: [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 - description: 100%
   icon: chart-line
   icon_pack: fas

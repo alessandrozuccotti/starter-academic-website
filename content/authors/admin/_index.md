@@ -6,7 +6,7 @@ title: Alessandro Zuccotti
 superuser: true
 
 # Role/position/tagline
-role: Master's graduate in Theoretical Physics
+role: MSc in Theoretical Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,14 +26,14 @@ interests:
 education:
   courses:
   - course: MSc in Theoretical Physics.
-    institution: "University of Pisa | Final grade: 110/110 cum Laude"
-    year: "(A.Y. 2019-2020)"
+    institution: "University of Pisa - Final grade: 110/110 cum Laude"
+    year: "A.Y. 2019-2020"
   - course: BSc in Physics
-    institution: "University of Pisa | Final grade: 107/110"
-    year: "(A.Y. 2015-16)"
+    institution: "University of Pisa - Final grade: 107/110"
+    year: "A.Y. 2015-16"
   - course: Scientific high school diploma
-    institution: "Liceo Scientifico Archimede, Messina"
-    year: "2012"
+    institution: "Liceo Scientifico Archimede, Messina - Final grade: 97/100"
+    year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -102,7 +102,7 @@ email: "alessandro.zuccotti66@gmail.com"
 highlight_name: false
 ---
 
-I currently live in Pisa and I got a Master’s Degree in Theoretical Physics at the Physics department of the University of Pisa. During my studies I gained deep expertise in gravitation, General Relativity, blackhole and wormhole solutions.
+I currently live in Pisa and I got a Master Degree in Theoretical Physics  @[Physics department](https://www.df.unipi.it/en/content/generic/111125/benvenuto), University of Pisa. During my studies I gained deep expertise in gravitation, General Relativity, blackhole and wormhole solutions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/scientific-cv-zuccotti.pdf" "newtab" >}}scientific CV{{< /staticref >}}
 or my {{< staticref "uploads/resume-zuccotti.pdf" "newtab" >}}resume{{< /staticref >}}.
