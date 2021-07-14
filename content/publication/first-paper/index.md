@@ -6,7 +6,7 @@ title: 'Paper about "Wormhole solutions in Einstein-Weyl gravity"'
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- A. Bonanno
+- Alfio Bonanno
 
 # Author notes (optional)
 author_notes: ""
