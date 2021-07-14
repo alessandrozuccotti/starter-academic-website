@@ -41,7 +41,7 @@ to the simplest non-trivial case, that is a static spherically symmetric space-
 time in the vacuum. Given these restrictions in general relativity, we have
 the well known Schwarzschild solution, i.e. black hole solution. In classical
 quadratic gravity the Schwarzschild solution is still present, but we can also
-nd many dierent classes of solutions: the aim of this thesis is to classify
+nd many different classes of solutions: the aim of this thesis is to classify
 the various solutions families, as well as to characterize a specific family that
 covers a large part of the solution space, i.e. wormhole solutions. We solve the
 geodesic equation in such solutions which shows the reason why we call them
@@ -58,7 +58,7 @@ infinity and the radius of the wormholes, we nd the geometric properties
 of the wormhole solutions, and in particular we characterize the behavior of
 these solutions in function of their position on the phase diagram. Then we
 use the results to explore both the interior r < r0 of the wormholes and the
-new 'copy' of r > r0 that emerges in such solutions. We report a qualitative
+new copy of r > r0 that emerges in such solutions. We report a qualitative
 analysis of the behavior of the metric in this new r > r0 region, discovering
 that it has a finite proper volume for r → ∞ for almost all solutions, due
 to a strongly non-at behavior of the metric. We conclude with a physical
