@@ -72,3 +72,9 @@ projects: []
 slides: example
 ---
 
+Please wait for the content.
+
+"Authors:
+- [Zuccotti, A.](https://scholar.google.com/citations?user=OR9v-pIAAAAJ&hl=it&oi=sra)
+- [Bonanno, A.](https://scholar.google.com/citations?user=tkoX3scAAAAJ&hl=it)
+" 

@@ -65,9 +65,9 @@ social:
     label: Linkedin
     
   # google scholar
-  - icon: google
-    icon_pack: fab
-    link: https://scholar.google.com/
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=OR9v-pIAAAAJ&hl=it&oi=sra
     label: Google Scholar
     display:
       header: true
