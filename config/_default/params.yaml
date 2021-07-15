@@ -49,6 +49,15 @@ contact_links:
     icon_pack: fab
     name: Alessandro Zuccotti
     link: 'https://www.linkedin.com/in/alessandro-zuccotti-a631081a9/'
+  - icon: download
+    icon_pack: fas
+    name: Scientific CV
+    link: 'uploads/scientific-cv-zuccotti.pdf'
+  - icon: download
+    icon_pack: fas
+    name: Resumé
+    link: 'uploads/cv-zuccotti.pdf'
+
 
 
 # Site header
