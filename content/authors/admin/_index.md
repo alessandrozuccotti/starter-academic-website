@@ -102,7 +102,7 @@ email: "alessandro.zuccotti66@gmail.com"
 highlight_name: false
 ---
 
-I currently live in Pisa and I got a Master Degree in Theoretical Physics  @["E. Fermi" Physics department](https://www.df.unipi.it/en/content/generic/111125/benvenuto), University of Pisa. During my studies I gained deep expertise in gravitation, General Relativity, blackhole and wormhole solutions.
+I currently live in Pisa and I got a Master Degree in Theoretical Physics  ["@E. Fermi" Physics department](https://www.df.unipi.it/en/content/generic/111125/benvenuto), University of Pisa. During my studies I gained deep expertise in gravitation, General Relativity, blackhole and wormhole solutions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/scientific-cv-zuccotti.pdf" "newtab" >}}scientific CV{{< /staticref >}}
 or my {{< staticref "uploads/resume-zuccotti.pdf" "newtab" >}}resume{{< /staticref >}}.
