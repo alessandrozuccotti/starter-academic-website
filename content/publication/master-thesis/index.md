@@ -53,7 +53,7 @@ links:
   icon_pack: fas
   name: Google Scholar
   url: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=OR9v-pIAAAAJ&citation_for_view=OR9v-pIAAAAJ:u5HHmVD_uO8C"
-url_pdf: ''
+url_pdf: 'https://etd.adm.unipi.it/t/etd-04092021-195317/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -89,5 +89,5 @@ slides: example
 Click the *Cite* button above to to import publication metadata.
 {{% /callout %}}
 
-"Author:
+Author:
 - [Zuccotti, A.](https://scholar.google.com/citations?user=OR9v-pIAAAAJ&hl=it&oi=sra)
