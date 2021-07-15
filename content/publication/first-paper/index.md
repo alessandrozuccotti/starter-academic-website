@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes: ""
 
-date: ""
+date: "0000-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
