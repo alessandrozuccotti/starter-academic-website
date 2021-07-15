@@ -24,7 +24,7 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(ongoing)"
+publication: "ongoing"
 publication_short: ""
 
 abstract: 
