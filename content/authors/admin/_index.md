@@ -59,7 +59,7 @@ social:
   # linkedin
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/
+    link: https://www.linkedin.com/in/alessandro-zuccotti-a631081a9/
     display:
       header: true
     label: Linkedin
