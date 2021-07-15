@@ -55,7 +55,7 @@ contact_links:
     link: 'uploads/scientific-cv-zuccotti.pdf'
   - icon: download
     icon_pack: fas
-    name: Resumé
+    name: Full CV
     link: 'uploads/cv-zuccotti.pdf'
 
 
