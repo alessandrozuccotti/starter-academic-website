@@ -53,6 +53,10 @@ links:
   icon_pack: fas
   name: Google Scholar
   url: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=OR9v-pIAAAAJ&citation_for_view=OR9v-pIAAAAJ:u5HHmVD_uO8C"
+- icon: file-alt
+  icon_pack: far
+  name: Abstract
+  url: "abstract-zuccotti2021.pdf"
 url_pdf: 'https://etd.adm.unipi.it/t/etd-04092021-195317/'
 url_code: ''
 url_dataset: ''
