@@ -6,7 +6,7 @@ title: Alessandro Zuccotti
 superuser: true
 
 # Role/position/tagline
-role: MSc in Theoretical Physics, PhD applicant
+role: MSc in Theoretical Physics | PhD applicant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -76,7 +76,7 @@ social:
   - display:
       header: true
     link: https://orcid.org/0000-0001-5033-5317
-    icon_pack: fas
+    icon_pack: fa
     icon: orcid
     label: Orcid
 
@@ -116,4 +116,4 @@ University of Pisa. During my studies I gained deep expertise in gravitation, Ge
 black hole and wormhole solutions in Einstein-Weil gravity.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/scientific-cv-zuccotti.pdf" "newtab" >}}scientific CV{{< /staticref >}}
-or my {{< staticref "uploads/cv-zuccotti.pdf" "newtab" >}}full CV{{< /staticref >}}.
+(updated to: May 2022) or my {{< staticref "uploads/cv-zuccotti.pdf" "newtab" >}}full CV{{< /staticref >}} (updated to: July 2021).
