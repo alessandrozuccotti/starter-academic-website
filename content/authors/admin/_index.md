@@ -71,7 +71,7 @@ social:
     label: Google Scholar
     display:
       header: true
-  - 
+
   # orcid
   - display:
       header: true
