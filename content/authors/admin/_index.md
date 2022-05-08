@@ -76,7 +76,7 @@ social:
   - display:
       header: true
     link: https://orcid.org/0000-0001-5033-5317
-    icon_pack: fa
+    icon_pack: fab
     icon: orcid
     label: Orcid
 
