@@ -45,10 +45,6 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/alessandrozuccotti/MasterThesis
-- icon: university
-  icon_pack: fas
-  name: Academia
-  url: ""
 - icon: graduation-cap
   icon_pack: fas
   name: Google Scholar
@@ -90,7 +86,7 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to to import publication metadata.
+Click the *Cite* button above to import publication metadata.
 {{% /callout %}}
 
 Author:

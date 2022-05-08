@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: see "Experience" section
+- description: see below "Experience" section
   icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching

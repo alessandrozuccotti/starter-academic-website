@@ -31,6 +31,14 @@ experience:
     date_end: ''
     description: I have been giving private physics lesson (both in presence and online) regularly since 2015, to students coming from departments of physics, aerospace engineering, mechanical engineering and electronic engineering.
 
+- title: Mathematics and Physics professor
+    company: "Enriques" scientific High School 
+    company_url: 'https://www.liceoenriques.edu.it/'
+    company_logo: 
+    location: Livorno, Italy
+    date_start: '2021-09-01'
+    date_end: '2021-12-31'
+    description:
 design:
   columns: '2'
 ---

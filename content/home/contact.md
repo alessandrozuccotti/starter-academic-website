@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Get in touch with me by filling this form or choosing one of the e-mail addresses listed down below. I will answer as soon as I can.
 
 content:
   # Automatically link email and phone or display as text?

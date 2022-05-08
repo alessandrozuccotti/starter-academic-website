@@ -6,7 +6,7 @@ title: Alessandro Zuccotti
 superuser: true
 
 # Role/position/tagline
-role: MSc in Theoretical Physics
+role: MSc in Theoretical Physics, PhD applicant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -102,8 +102,8 @@ email: "alessandro.zuccotti66@gmail.com"
 highlight_name: false
 ---
 
-I currently live in Pisa and I got a Master Degree in Theoretical Physics 
-[@"E. Fermi" Physics department](https://www.df.unipi.it/en/content/generic/111125/benvenuto), 
+I currently live in Pisa and I got a Master Degree in Theoretical Physics at
+["Enrico Fermi" Physics department](https://www.df.unipi.it/en/content/generic/111125/benvenuto), 
 University of Pisa. During my studies I gained deep expertise in gravitation, General Relativity, 
 black hole and wormhole solutions in Einstein-Weil gravity.
 
