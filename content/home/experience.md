@@ -39,6 +39,7 @@ experience:
     date_start: '2021-09-01'
     date_end: '2021-12-31'
     description: ''
-  design:
-    columns: '2'
+
+design:
+  columns: '2'
 ---
