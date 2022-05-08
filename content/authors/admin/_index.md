@@ -71,7 +71,15 @@ social:
     label: Google Scholar
     display:
       header: true
-  
+  - 
+  # orcid
+  - display:
+      header: true
+    link: https://orcid.org/0000-0001-5033-5317
+    icon_pack: fas
+    icon: orcid
+    label: Orcid
+
   # github
   - icon: github
     icon_pack: fab
